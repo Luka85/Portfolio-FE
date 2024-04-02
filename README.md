@@ -7,8 +7,9 @@
 
 ### Links
 
-- Solution URL: [https://github.com/Luka85/portfolio/]
+- Solution URL: [https://github.com/Luka85/Portfolio-FE]
 - Live Site URL: [https://lukakikelj.com/]
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -20,6 +21,3 @@
 ## Author
 
 - Website - [Luka Kikelj](https://lukakikelj.com/)
-
-
-
